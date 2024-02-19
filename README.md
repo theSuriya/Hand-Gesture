@@ -1,0 +1,24 @@
+# Real-Time Hand Sign Detection and Recognition
+
+## Overview
+
+This project focuses on real-time hand sign detection and recognition using computer vision techniques. The system accurately identifies left or right hand signs and dynamically updates the displayed signs.
+
+## Features
+
+- *Real-Time Detection:* Utilizes computer vision with MediaPipe for precise hand tracking and dynamic sign recognition.
+- *Python Libraries:* Implements OpenCV for image processing, MediaPipe for hand tracking, and a Convolutional Neural Network (CNN) for sign recognition.
+- *Dynamic Visualization:* Provides live updates of detected hand signs with a user-friendly interface.
+
+## Technologies Used
+
+- *Python Libraries:* OpenCV, MediaPipe, TensorFlow
+- *Web Framework:* Flask (for optional web-based deployment)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   
+   cd hand-sign-detection
