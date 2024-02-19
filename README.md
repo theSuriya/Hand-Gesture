@@ -24,3 +24,5 @@ This project focuses on real-time hand sign detection and recognition using comp
    git clone https://github.com/theSuriya/Hand-Gesture.git
 
 ## Sample Video
+
+https://github.com/theSuriya/Hand-Gesture/assets/127676318/03eb6a6d-6fb0-4a0a-b16d-043e248be189
