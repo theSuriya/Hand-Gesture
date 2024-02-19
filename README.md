@@ -21,4 +21,6 @@ This project focuses on real-time hand sign detection and recognition using comp
 
    ```bash
    
-   cd hand-sign-detection
+   git clone https://github.com/theSuriya/Hand-Gesture.git
+
+## Sample Video
